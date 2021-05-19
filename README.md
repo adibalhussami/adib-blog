@@ -1,5 +1,5 @@
 # adib-blog My Personal Blog Website.
-A website I built while studying course 100 Days Of Code created by Dr. Angela Yu.
+A website I built while studying course a '100 Days Of Code' created by 'Dr. Angela Yu.'
 * https://adib-blog.herokuapp.com/
 * Blog built with Flask
 
